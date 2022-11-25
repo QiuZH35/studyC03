@@ -1,0 +1,5 @@
+﻿  动态内存.c
+D:\vs2017Data\Restart study of  C++ 12~17\动态内存开辟\动态内存开辟\动态内存.c(52,6): warning C4101: “a”: 未引用的局部变量
+D:\vs2017Data\Restart study of  C++ 12~17\动态内存开辟\动态内存开辟\动态内存.c(71,6): warning C4101: “a”: 未引用的局部变量
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\vs2017Data\Restart study of  C++ 12~17\动态内存开辟\Debug\动态内存开辟.exe : fatal error LNK1120: 1 个无法解析的外部命令

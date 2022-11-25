@@ -1,0 +1,3 @@
+﻿  time.c
+D:\vs2017Data\Restart study of  C++ 12~17\高维数组\高维数组\time.c(22,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+  高维数组.vcxproj -> D:\vs2017Data\Restart study of  C++ 12~17\高维数组\Debug\高维数组.exe

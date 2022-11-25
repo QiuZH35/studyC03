@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b589a263-a36d-45bf-92c4-39899855cbba": {
+      "ProjectGuid": "b589a263-a36d-45bf-92c4-39899855cbba",
+      "DisplayName": "动态内存开辟",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "2bbf9d97-310c-4b83-b6f5-8318318035fc": {
+      "ProjectGuid": "2bbf9d97-310c-4b83-b6f5-8318318035fc",
+      "DisplayName": "动态数组",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

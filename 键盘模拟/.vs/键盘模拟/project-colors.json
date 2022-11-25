@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17b643e9-0b1b-400a-a7d1-1a75fe7394fd": {
+      "ProjectGuid": "17b643e9-0b1b-400a-a7d1-1a75fe7394fd",
+      "DisplayName": "键盘模拟",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

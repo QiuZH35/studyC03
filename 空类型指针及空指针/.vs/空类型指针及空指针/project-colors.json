@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26bf20f8-9581-4c14-b87c-8dd71d77e0bf": {
+      "ProjectGuid": "26bf20f8-9581-4c14-b87c-8dd71d77e0bf",
+      "DisplayName": "空类型指针及空指针",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

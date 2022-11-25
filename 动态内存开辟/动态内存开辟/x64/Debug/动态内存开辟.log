@@ -1,0 +1,4 @@
+﻿  malloc.c
+D:\vs2017Data\Restart study of  C++ 12~17\动态内存开辟\动态内存开辟\malloc.c(9,6): warning C4101: “a”: 未引用的局部变量
+D:\vs2017Data\Restart study of  C++ 12~17\动态内存开辟\动态内存开辟\malloc.c(8,6): warning C4101: “b”: 未引用的局部变量
+  动态内存开辟.vcxproj -> D:\vs2017Data\Restart study of  C++ 12~17\动态内存开辟\x64\Debug\动态内存开辟.exe

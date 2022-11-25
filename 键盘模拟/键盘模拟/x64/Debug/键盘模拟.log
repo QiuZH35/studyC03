@@ -1,0 +1,3 @@
+﻿  keybd_event.c
+D:\vs2017Data\Restart study of  C++ 12~17\键盘模拟\键盘模拟\keybd_event.c(64,22): warning C4113: “void (__cdecl *)()”和“_beginthread_proc_type”的参数列表不同
+  键盘模拟.vcxproj -> D:\vs2017Data\Restart study of  C++ 12~17\键盘模拟\x64\Debug\键盘模拟.exe
